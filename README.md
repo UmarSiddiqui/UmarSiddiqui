@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UmarSiddiqui
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Angular and Typescript
-- 💞️ I’m looking to collaborate on a web application
+- 🌱 I’m currently learning C# and >NET
+- 💞️ I’m looking to collaborate on a Web app for Roomates (Share house management system)- RoonEase
 - 📫 How to reach me umarsiddiqui@outlook.com.au
