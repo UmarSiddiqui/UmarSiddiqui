@@ -4,8 +4,3 @@
 - 💞️ I’m looking to collaborate on a Web app for Roomates (Share house management system)- RoonEase
 - 📫 How to reach me umarsiddiqui@outlook.com.au
 
-##
-
-<img src="https://raw.githubusercontent.com/umarsiddiqui/umarsiddiqui/output/snake.svg" alt="Snake animation" />
-
-###
